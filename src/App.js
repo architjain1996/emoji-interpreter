@@ -6,7 +6,12 @@ const emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "😚": "kissing face with eyes closed",
+  "😉": "winking face",
+  "😁": "grinning face with smiling eyes",
+  "💕": "two hearts",
+  "🙏": "folded hands"
 };
 
 const emojis = Object.keys(emojiDictionary);
